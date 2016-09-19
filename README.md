@@ -1,6 +1,6 @@
 ## NLP Example
 
- This an example project to identify question types. At present only the four following question categories are considered:
+ This is an example project to identify question types. At present only the four following question categories are considered:
     Who, What, When, Affirmation 
   	Any sentence that does not fall in any of the above four is considered as "Unknown" type.
   	
